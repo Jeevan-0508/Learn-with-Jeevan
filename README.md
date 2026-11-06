@@ -2,6 +2,8 @@
 
 Static, responsive, bilingual English/German tutoring and project-mentorship site. It uses original CSS/canvas visuals, no stock images, no third-party runtime scripts, no analytics and no backend.
 
+Live site: [https://jeevan-0508.github.io/Learn-with-Jeevan/](https://jeevan-0508.github.io/Learn-with-Jeevan/)
+
 ## Included
 
 - Academic Excellence and Future Skills / Project Mentorship pathways.
